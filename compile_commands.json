@@ -1,0 +1,86 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-Wall",
+      "-o",
+      "src/input.c.o",
+      "src/input.c"
+    ],
+    "directory": "/home/me/Proj/asciiventure",
+    "file": "/home/me/Proj/asciiventure/src/input.c",
+    "output": "/home/me/Proj/asciiventure/src/input.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-Wall",
+      "-o",
+      "src/draw.c.o",
+      "src/draw.c"
+    ],
+    "directory": "/home/me/Proj/asciiventure",
+    "file": "/home/me/Proj/asciiventure/src/draw.c",
+    "output": "/home/me/Proj/asciiventure/src/draw.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-Wall",
+      "-o",
+      "src/map.c.o",
+      "src/map.c"
+    ],
+    "directory": "/home/me/Proj/asciiventure",
+    "file": "/home/me/Proj/asciiventure/src/map.c",
+    "output": "/home/me/Proj/asciiventure/src/map.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-Wall",
+      "-o",
+      "src/term_utils.c.o",
+      "src/term_utils.c"
+    ],
+    "directory": "/home/me/Proj/asciiventure",
+    "file": "/home/me/Proj/asciiventure/src/term_utils.c",
+    "output": "/home/me/Proj/asciiventure/src/term_utils.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-Wall",
+      "-o",
+      "src/main.c.o",
+      "src/main.c"
+    ],
+    "directory": "/home/me/Proj/asciiventure",
+    "file": "/home/me/Proj/asciiventure/src/main.c",
+    "output": "/home/me/Proj/asciiventure/src/main.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-Wall",
+      "-o",
+      "src/player.c.o",
+      "src/player.c"
+    ],
+    "directory": "/home/me/Proj/asciiventure",
+    "file": "/home/me/Proj/asciiventure/src/player.c",
+    "output": "/home/me/Proj/asciiventure/src/player.c.o"
+  }
+]
